@@ -1,0 +1,501 @@
+Player,Cards,Hand,Value Cards,Won Round
+Harley Queen,"AD, AC, 9S, QS, 5H, 5D, 8C",pair,5,No
+Harley Queen,"2H, 9D, 6C, 3H, AC, 9C, 6D",two pair,"9, 6",No
+Harley Queen,"7H, 4C, AC, 3S, 5S, QH, JC",high card,A,No
+Ace of Base,"8S, JD, 6S, 2C, 6H, JH, 4C",two pair,"J, 6",No
+Ace of Base,"TD, 6S, TH, KD, 9C, AC, 5S",high card,A,No
+Handsome Jack,"9C, 6H, 2D, JC, 3D, JS, KS",pair,J,No
+Harley Queen,"2S, 8S, 5S, AD, QC, 4S, JH",high card,A,No
+Harley Queen,"8D, TS, 4H, QH, 9S, 8S, AH",high card,A,No
+King of the Hill,"QS, 8D, 5D, QC, 9C, TH, AH",high card,A,No
+Handsome Jack,"7D, TD, 6H, 7C, 8C, 2S, 4S",high card,T,No
+Ace of Base,"QD, 8C, AC, 9D, 6S, 2D, QS",high card,A,No
+King of the Hill,"3S, 9S, QH, 4H, AD, 2D, TC",high card,A,No
+Harley Queen,"2C, QH, 3S, 7D, TS, 9D, 4D",high card,Q,No
+Ace of Base,"JC, 2D, 3S, 4D, QH, 6H, 7S",high card,Q,No
+King of the Hill,"AH, KD, 5D, 6S, AS, 9H, JH",high card,A,No
+King of the Hill,"2S, 7S, JH, 9H, 5H, 8C, AH",high card,A,No
+Handsome Jack,"QH, KS, 2S, TH, 6S, 4H, 7H",high card,K,No
+King of the Hill,"7D, KH, KS, 3D, QH, QD, KD",full house,"K, Q",No
+Handsome Jack,"6S, TD, 6D, KD, 3S, QH, TH",high card,K,No
+Harley Queen,"TS, 6H, TD, 8S, QH, QC, 7C",pair,Q,No
+Handsome Jack,"9S, JS, 6C, 3S, AD, 7C, 2S",high card,A,No
+Handsome Jack,"5C, AS, 5S, 9H, 4C, 9D, 8C",pair,9,No
+Ace of Base,"JC, KS, 9S, KH, 9H, 9D, 4S",full house,"9, K",No
+King of the Hill,"7D, 6S, AH, 4S, 8D, KD, 3H",high card,A,No
+Ace of Base,"7H, 2C, 2H, 5C, 9C, 6C, 4C",high card,9,No
+Ace of Base,"3S, 7C, JH, AD, 4D, KH, TC",high card,A,No
+Ace of Base,"2D, 3H, AS, 3S, 9H, TD, 2H",high card,A,No
+Ace of Base,"7H, 4C, AH, 3S, 8H, TD, AD",pair,A,No
+Handsome Jack,"TC, 7D, JS, 3D, AS, QS, 6D",high card,A,No
+Ace of Base,"5C, 2H, 3D, 7D, KS, JD, JS",pair,J,No
+Handsome Jack,"JS, 7H, 8H, KS, AC, TC, 7D",high card,A,No
+Harley Queen,"KS, 4C, 5S, 4D, 3S, 7C, 9D",high card,9,No
+King of the Hill,"8S, KS, 7D, JS, 4H, 2D, AS",high card,A,No
+Handsome Jack,"3C, JS, 2H, 7D, 6D, TS, 4H",high card,J,No
+Harley Queen,"QS, KH, 6C, 9D, 6H, 4D, JC",pair,6,No
+Handsome Jack,"2D, 7D, 2C, 9H, TC, QD, KS",high card,K,No
+Ace of Base,"6D, 3S, TH, 8H, JH, 2S, JD",pair,J,No
+Handsome Jack,"9H, TS, 3D, 7S, 2S, QH, AD",high card,A,No
+Ace of Base,"AD, AC, 9S, 4C, 4H, JH, 6H",pair,4,No
+Handsome Jack,"7H, 6S, 4C, 5C, JH, JD, 2S",pair,J,No
+Harley Queen,"9C, 8S, QD, 9D, 5S, 7S, QS",pair,Q,No
+King of the Hill,"9H, 3C, 3S, 4S, 9D, 8D, 7D",high card,9,No
+Harley Queen,"7S, JC, 8S, 8C, 5C, 5D, KC",two pair,"8, 5",No
+Harley Queen,"8C, 8D, 5D, 4H, AD, 8S, JS",high card,A,No
+Ace of Base,"JH, KD, QS, TS, 2D, AS, 8H",high card,A,No
+Harley Queen,"AC, 9C, 9D, QS, 3D, 3H, KD",two pair,"9, 3",No
+Handsome Jack,"9C, 7D, 3C, AH, 3S, TC, 2D",pair,3,No
+King of the Hill,"AS, AD, QS, JH, 3H, 3S, 2C",pair,3,No
+Handsome Jack,"6C, 4C, 9C, 5S, 2C, AD, 9H",pair,9,No
+King of the Hill,"3C, AD, 4H, 3D, JD, AC, TH",high card,A,No
+Harley Queen,"QS, 7C, AH, TH, 7H, 2S, 5D",high card,A,No
+Ace of Base,"4D, KS, 9H, 8C, KD, JC, JD",two pair,"K, J",No
+King of the Hill,"JD, 3H, 2D, AC, 8H, AH, 5D",pair,A,NO
+King of the Hill,"6D, 8D, QS, 9D, 2S, 2H, TH",pair,2,No
+Harley Queen,"KC, KH, QD, 9D, 5H, 4H, 7C",high card,K,No
+King of the Hill,"8H, 5D, 4D, 2C, QC, TS, 5S",high card,Q,No
+Harley Queen,"3C, 6D, QS, 4C, 9C, JC, TD",high card,Q,No
+King of the Hill,"TH, 9C, QS, 7H, KS, 5S, 3D",high card,K,No
+King of the Hill,"QD, AC, TD, 8D, 4H, 9S, 6D",high card,A,No
+Harley Queen,"3S, KD, 7S, 7D, TS, 9C, 8H",pair,7,No
+Ace of Base,"TD, 7S, 9C, 3D, JC, 9D, 4H",pair,9,No
+King of the Hill,"JD, 4D, JH, 6H, JC, 3H, KD",pair,J,No
+King of the Hill,"KD, 9C, 6S, 8C, 3C, 2H, KC",high card,K,No
+King of the Hill,"5S, 7H, QC, 2H, QD, 4S, 2C",two pair,"Q, 2",No
+Handsome Jack,"7S, 8D, 3S, 8H, 9D, 2C, 6D",high card,9,No
+Ace of Base,"KS, JS, 5S, 7S, TD, JH, 4S",high card,J,No
+Handsome Jack,"3C, 7C, 5D, 5H, KC, TC, 8D",pair,5,No
+Harley Queen,"5C, QC, 6C, 8D, JS, 2H, 9H",high card,Q,No
+Harley Queen,"8S, AS, 2C, 4D, 3C, 4S, 3D",two pair,"4, 3",No
+King of the Hill,"2S, JS, 9S, 8D, JC, 7C, 8C",two pair,"J, 8",No
+Ace of Base,"AH, JH, 5H, 7H, JD, 6D, QS",high card,Q,No
+Handsome Jack,"3S, 3H, 5S, AC, 8C, JC, 4C",high card,A,No
+Harley Queen,"JD, 3H, 8S, TS, 4S, JC, 9C",high card,J,No
+Handsome Jack,"6S, 6H, TH, JD, KS, 2C, TS",pair,T,No
+Harley Queen,"6S, 9S, 5H, 8H, 8D, 8S, 9H",full house,"8, 9",No
+King of the Hill,"7C, 6C, TC, 8S, 8C, 3D, 4H",pair,8,No
+Handsome Jack,"5S, 4D, JH, KC, TH, QS, 7D",high card,K,No
+Ace of Base,"8H, 3D, TH, 2C, QH, AH, 6D",high card,A,No
+Handsome Jack,"2D, QS, TD, 8C, 4H, KC, 7D",high card,K,No
+King of the Hill,"KD, 5D, JC, 9C, TC, 5S, AC",high card,A,No
+Ace of Base,"4S, 4C, KD, 8C, AS, QD, 9C",high card,A,No
+King of the Hill,"KS, JC, 2C, QD, JS, 6H, TD",high card,Q,No
+King of the Hill,"5H, TC, 3S, JS, 7H, KH, TD",high card,K,No
+Harley Queen,"JH, 8H, JS, 6D, TH, 7D, 2S",high card,J,No
+King of the Hill,"9H, 3S, KS, TD, 6D, 5S, KC",pair,K,No
+Handsome Jack,"KC, 8C, 9C, AH, 3C, 3H, 7D",pair,3,No
+King of the Hill,"8S, JS, AS, 6S, KS, TC, 6C",pair,6,No
+Handsome Jack,"2H, AD, JC, 6H, 6D, KS, QH",pair,6,No
+Harley Queen,"8H, 5D, 3C, 8D, 4D, JC, 4S",pair,4,No
+Handsome Jack,"3S, 7D, TS, AS, 6S, 4C, 4D",pair,4,No
+Handsome Jack,"9S, QH, 7H, 3S, 6S, 4D, QC",high card,Q,No
+Handsome Jack,"AC, 7S, 5H, 6S, JC, 2H, QH",high card,A,No
+Harley Queen,"8C, 8H, AC, 9D, 9H, JS, JC",two pair,"9, 8",No
+Harley Queen,"2D, 9D, 2S, 6H, 3D, 6D, JS",pair,6,No
+King of the Hill,"8D, KC, 3C, KD, 2C, 4S, JH",high card,K,No
+Harley Queen,"7C, QD, AC, AH, TC, TD, 4D",two pair,"A, T",yes
+King of the Hill,"2S, AS, 6D, KD, KH, 5H, 2D",pair,K,No
+Ace of Base,"2C, 8H, 2D, TC, 3C, 9D, 9C",pair,9,No
+Harley Queen,"6S, 3S, 6H, 9D, 6D, 4D, 3C",full house,"6, 3",No
+King of the Hill,"9H, QD, KH, 2C, 7H, 8S, 4S",high card,K,No
+Ace of Base,"AD, TS, TC, JS, 4S, 7S, 2D",high card,J,No
+King of the Hill,"7S, 2C, 5H, 7H, 6S, QC, 9D",high card,Q,No
+Handsome Jack,"3S, 6D, 9S, JS, 5S, 9C, 4D",pair,9,No
+King of the Hill,"3D, 7S, 3S, 2C, KH, AC, TC",high card,A,No
+Ace of Base,"9D, TC, 6S, 7S, 2D, 7D, 5D",pair,7,No
+Harley Queen,"JC, QS, JH, 9H, JD, 8D, 4H",pair,J,No
+Ace of Base,"7H, 8D, KS, 3D, 6S, 7S, 7D",pair,7,No
+Ace of Base,"QC, 2S, 7H, TD, 4S, 4C, 2H",two pair,"4, 2",No
+Ace of Base,"5C, QD, 4D, JS, 2C, KD, 7H",high card,K,No
+Ace of Base,"8S, 5C, 3D, TC, TS, JD, 8H",pair,T,No
+King of the Hill,"2D, QH, TD, TC, QC, 8C, 3H",two pair,"Q, T",No
+Ace of Base,"TC, 8H, 7S, JS, 7H, 3S, 7C",three of a kind,7,No
+King of the Hill,"9S, AD, JC, QD, 8S, 7D, AS",high card,A,No
+Handsome Jack,"8S, 6S, KS, JH, 8D, 2H, QH",high card,K,No
+Handsome Jack,"6S, KS, 3S, 7H, KC, 2H, AS",high card,A,No
+Handsome Jack,"JD, TC, 9H, 2H, 4C, 8C, KH",high card,K,No
+Handsome Jack,"7D, TS, AC, JH, 3C, 8S, TC",high card,A,No
+Handsome Jack,"3C, JH, 7D, TD, 4C, 8C, 3H",high card,J,No
+Ace of Base,"JC, 3S, 4C, JD, 2H, AC, AS",pair,A,No
+Ace of Base,"2H, 7D, JS, 2D, 9H, 2S, TH",pair,2,No
+Ace of Base,"5D, KD, 7S, 6H, JH, TS, TH",pair,T,No
+Harley Queen,"3D, QD, 9D, 2S, KC, 3C, 8D",high card,K,No
+King of the Hill,"7S, 8S, 2D, QS, 5D, QH, 3H",pair,Q,No
+Handsome Jack,"8H, TC, 5C, 2S, 6S, 8C, QH",high card,Q,No
+Ace of Base,"3D, AD, KD, 8D, KC, QC, JH",pair,K,No
+Handsome Jack,"2H, AC, 5C, 2D, 9C, QC, TD",high card,A,No
+Ace of Base,"9S, TC, 9H, 8D, AC, KH, 3C",high card,A,No
+King of the Hill,"4D, JD, 9S, 2C, QC, 3D, 3S",pair,3,No
+Harley Queen,"6S, TS, QS, 4S, QD, 8H, 2D",pair,Q,No
+Ace of Base,"TC, 4D, JC, 8H, 8S, TH, QH",pair,8,No
+Ace of Base,"3S, 7S, QH, TH, AC, 9S, TC",pair,T,No
+Harley Queen,"TC, JH, 3D, 4H, JS, QC, 8S",high card,Q,No
+Ace of Base,"7H, 5C, 2H, 7S, JC, 9S, 2D",pair,2,No
+King of the Hill,"TD, AD, AS, 4S, 7C, 3H, 5H",high card,A,No
+Harley Queen,"5H, QH, 4D, TS, 8H, 2H, 5D",high card,Q,No
+King of the Hill,"6C, KH, 3D, JC, 4H, 3H, 7D",pair,3,No
+King of the Hill,"3S, JH, 2D, 2C, QS, 7H, TS",pair,2,No
+King of the Hill,"JD, 3H, 6H, 9D, 5H, AD, 5D",pair,5,No
+Handsome Jack,"QC, JC, 8D, 5H, 6S, 9D, 8C",pair,8,No
+King of the Hill,"TH, 9D, 5S, QS, 5H, AS, 8S",pair,5,No
+Ace of Base,"3S, TS, 6S, 2C, 8D, 9H, 9D",pair,9,No
+Ace of Base,"8S, 3D, KC, 2H, QS, AC, 8D",high card,A,No
+King of the Hill,"AD, 3D, 8D, 4C, 5D, 2D, 7C",high card,A,No
+Ace of Base,"5S, 6D, QC, 9S, AC, 4D, KS",high card,A,No
+Handsome Jack,"AC, 7D, 6H, 7C, JS, AH, 9C",high card,A,No
+Harley Queen,"4C, JC, AS, TD, KS, 3C, 5H",high card,A,No
+Harley Queen,"3C, QD, JD, 2D, 9H, KC, AC",high card,A,No
+King of the Hill,"7S, 6H, 2S, JC, 4S, 3H, JD",pair,J,No
+Handsome Jack,"4H, JH, AC, 7C, 8S, KS, 2C",high card,A,No
+Harley Queen,"TC, TS, 7C, KD, 5C, 9S, AS",high card,A,No
+Harley Queen,"6C, 5C, TS, 2S, QD, QH, KS",pair,Q,No
+Handsome Jack,"KS, AD, 3C, 6D, TS, 4C, 6S",pair,6,No
+King of the Hill,"QC, 7D, KD, QD, 3C, JS, TS",high card,K,No
+Harley Queen,"2S, 5S, 8D, KD, 8H, QC, 7C",pair,8,No
+Harley Queen,"7S, KD, 2S, TD, KS, AC, TC",two pair,"K, T",No
+Handsome Jack,"QH, 2S, KC, QC, 4H, 6H, 7C",high card,K,No
+Ace of Base,"5H, 4D, 3D, 3H, 8C, 4H, 2D",two pair,"4, 3",No
+Ace of Base,"QS, 2C, QD, TD, 7C, TC, 8D",pair,T,No
+Harley Queen,"8S, 6S, QD, JC, KH, 4D, AD",high card,A,No
+Harley Queen,"9D, 6C, 7H, 5D, KH, AH, 5C",pair,5,No
+Ace of Base,"TS, 6C, KC, 6D, 4C, 7D, TH",high card,K,No
+Ace of Base,"9H, QD, 7H, 8D, 9S, JD, 2D",high card,Q,No
+King of the Hill,"9C, TD, KD, 4C, 8C, JC, 5C",high card,K,No
+Ace of Base,"6H, 3C, TH, 3H, KH, 6C, 9S",high card,K,No
+Harley Queen,"2C, QH, 7H, 5H, JH, QD, 4H",high card,Q,No
+Handsome Jack,"4D, KC, 8S, TH, 7D, JD, 6S",high card,K,No
+Handsome Jack,"JC, TS, TC, QS, 3S, 8S, AH",high card,A,No
+Ace of Base,"9D, KD, TH, TS, 7D, AD, 6D",pair,T,No
+Handsome Jack,"9S, 2H, 7D, 3C, TC, AS, 5S",high card,A,No
+Ace of Base,"6D, JC, KH, 7S, 2H, AS, 6C",high card,A,No
+Harley Queen,"5C, 6C, 8H, 4D, 2S, 7D, 3H",high card,8,yes
+King of the Hill,"8H, 4S, 4H, 6D, 3D, 2C, 4C",three of a kind,4,No
+Ace of Base,"AD, JC, 4C, 8C, TD, 9C, 3H",high card,A,No
+King of the Hill,"6H, 8D, 5S, 9C, 2C, AS, 7H",high card,A,No
+Handsome Jack,"AC, 8C, 4S, 5D, QD, TC, 8S",high card,Q,No
+King of the Hill,"AC, 5H, JH, KH, TH, 6D, 6H",flush,K,No
+Harley Queen,"JH, 4S, JC, TD, 7H, 9S, 9C",pair,9,No
+Harley Queen,"4C, TC, 4S, 8H, JD, AC, 5S",high card,A,No
+Handsome Jack,"7S, 3H, QS, 9H, QH, AD, 4S",pair,Q,No
+King of the Hill,"KC, 2H, 4H, 9H, TD, KD, 9D",pair,9,No
+Harley Queen,"6C, AH, AS, QS, 6S, 3C, 2H",high card,A,No
+Handsome Jack,"7H, 4D, JD, 9C, JC, TH, 3H",pair,J,No
+Ace of Base,"5H, 2S, 7D, 6D, AH, AD, TS",pair,A,No
+Harley Queen,"8D, 2H, JS, 5H, 3S, 2S, TD",high card,J,No
+King of the Hill,"5S, 4H, 6C, QD, 9H, QC, KH",pair,Q,No
+King of the Hill,"6S, 7H, 9H, TC, 6C, 7S, 8C",straight,T,No
+Handsome Jack,"7H, TC, 4C, 9D, 8S, 2C, QH",high card,Q,No
+Handsome Jack,"2H, AH, 3H, 3C, 6D, KH, 2S",pair,3,No
+Ace of Base,"5C, JS, AH, QD, 3S, 6S, JD",high card,A,No
+Handsome Jack,"TD, KD, 9H, 3D, JH, 8H, AD",high card,A,No
+Handsome Jack,"6H, 9S, KS, 5H, 5S, 3D, 9D",two pair,"9, 5",No
+King of the Hill,"KC, 7C, 2D, 9D, 6H, 3C, 8C",high card,K,No
+Ace of Base,"JS, TC, 8D, 4H, AS, AC, 7S",pair,A,No
+Harley Queen,"AS, 3S, 7D, 8C, TH, 5H, AH",high card,A,No
+Ace of Base,"6S, 3H, 7H, 6C, 9H, TS, 5D",high card,T,No
+Ace of Base,"AS, 2H, 3C, JC, AH, 4C, 7S",high card,A,No
+Handsome Jack,"5H, AH, AS, 7C, 6D, AC, 5C",full house,"A, 5",No
+King of the Hill,"7S, 4H, 2S, 3S, AS, 6C, 6D",pair,6,No
+Harley Queen,"2C, KS, 5D, 9H, QH, JC, 3C",high card,K,No
+Handsome Jack,"6D, 5S, QH, AD, 4C, 7S, 9D",high card,A,No
+Ace of Base,"8C, 4H, 6H, 6D, 5D, TD, 9S",pair,6,No
+King of the Hill,"4S, JS, AD, JH, 7C, AH, QS",two pair,"A, J",No
+Harley Queen,"7C, 3S, TC, 8C, 8H, 5S, JH",pair,8,No
+Handsome Jack,"AH, 4D, 9C, KC, 7H, 4S, JH",high card,K,No
+Harley Queen,"5H, 4C, 4D, AC, QC, 8S, KH",high card,A,No
+King of the Hill,"TH, 4S, 4C, 9D, 7D, 6D, TD",high card,T,No
+King of the Hill,"8C, JC, AC, 8D, TD, 9D, TS",pair,T,No
+Harley Queen,"6D, KS, AS, 4S, 3C, 9C, 5H",high card,A,No
+Ace of Base,"JD, 6C, 6H, 2C, TS, TC, AH",two pair,"T, 6",No
+Handsome Jack,"5C, 2H, JS, AH, 5H, TH, 6H",high card,A,No
+Harley Queen,"6S, 5H, 6C, 6H, AH, 9D, 8C",pair,6,No
+King of the Hill,"2C, 9S, TH, QH, TS, 7D, AD",pair,T,No
+Harley Queen,"6C, 4C, AC, JC, 2S, 6S, 5D",high card,A,No
+Handsome Jack,"8D, 8H, 8C, 3H, QD, 7C, 5D",high card,Q,No
+Harley Queen,"AD, 5D, 8D, QH, 9C, 4S, 4C",pair,4,No
+Ace of Base,"8D, 4S, 3D, 2C, QD, 7H, 6S",high card,Q,No
+Handsome Jack,"9H, 2H, TC, KS, 4S, JD, AC",high card,A,No
+Ace of Base,"3S, 3H, KD, 7S, JD, 4D, 5H",high card,K,No
+King of the Hill,"KS, AC, 8H, TD, 4S, 9D, 8D",pair,8,No
+Harley Queen,"3D, 5C, 4C, 8C, QD, 2C, 7H",high card,Q,No
+Handsome Jack,"KD, QH, 8S, QS, 3S, 9S, AD",high card,A,No
+Ace of Base,"AD, 3C, KC, JS, 4H, 9S, JH",pair,J,No
+Harley Queen,"2C, JH, 5C, 3D, AS, QC, 8D",high card,A,No
+Ace of Base,"5H, 2S, 3S, 8C, AD, TH, QC",high card,A,No
+Handsome Jack,"JC, 6C, QH, KS, 6D, 9H, 9S",two pair,"9, 6",No
+Handsome Jack,"AC, 2S, KC, 3H, 8D, 9C, QC",high card,A,yes
+Handsome Jack,"AC, KD, TD, 8C, 5S, 7H, 4D",high card,A,No
+King of the Hill,"QH, 5C, 4C, 6S, 4D, 7S, 6C",two pair,"6, 4",No
+King of the Hill,"KH, 5H, QC, TD, 5D, 7S, TH",two pair,"T, 5",No
+Harley Queen,"KC, 2S, 2C, JD, 5D, 2H, AS",three of a kind,2,No
+King of the Hill,"4D, AS, 8H, 7D, 3S, TH, JC",high card,A,No
+Harley Queen,"6C, QH, 2D, KS, 5C, 3D, TS",high card,K,No
+Harley Queen,"3S, 9C, 3C, KD, JS, 2S, 5C",high card,K,No
+Handsome Jack,"3D, 2S, KS, QS, JS, TC, 3H",high card,K,No
+Ace of Base,"AH, KH, TC, 3C, 9D, 6H, 9C",pair,9,No
+Handsome Jack,"5H, 4C, 5D, QS, 5C, QH, 6S",full house,"5, Q",No
+Harley Queen,"7D, QH, 9S, 9D, 4D, 8S, 6H",pair,9,No
+Harley Queen,"4S, 7D, 8H, 6D, 4C, 3C, 8D",pair,8,No
+King of the Hill,"AD, 5D, JS, 3S, 8S, AC, 2H",high card,A,No
+Handsome Jack,"6S, JC, 5D, KS, TC, 4H, JS",high card,K,No
+Ace of Base,"5C, TC, 7S, 8C, 2H, 6C, 3D",high card,T,No
+Ace of Base,"5S, 6H, TS, 6D, 5H, 4S, 3D",high card,T,No
+Harley Queen,"7H, 9S, 3S, QH, 3C, AC, AH",two pair,"A, 3",No
+King of the Hill,"6H, JH, 6S, 4H, 8H, 2S, 2D",pair,2,No
+Harley Queen,"6C, JD, 7S, KS, 5S, 2C, 6S",high card,K,No
+Handsome Jack,"6C, AH, 2H, 4H, 9H, 4S, 2S",two pair,"4, 2",No
+Handsome Jack,"4S, JS, QH, JH, KS, TH, 3S",high card,K,No
+King of the Hill,"KD, 4D, 5H, 5D, KC, 5S, TS",full house,"5, K",No
+Harley Queen,"JS, QH, KS, AD, 5H, TC, 3S",high card,A,No
+Ace of Base,"6S, KH, QH, QC, QS, AD, 8H",three of a kind,Q,No
+King of the Hill,"KS, TD, QD, KC, 9C, 6C, 4S",high card,K,No
+King of the Hill,"7S, KC, AC, 8D, 4H, 3D, 2C",high card,A,No
+Handsome Jack,"7C, QC, TD, JD, JS, QS, 2C",two pair,"Q, J",No
+King of the Hill,"6C, 3D, 8C, 5C, KD, TC, QC",high card,K,No
+Ace of Base,"9H, 2S, 9D, 5S, 4D, KH, KD",pair,K,No
+Ace of Base,"4C, 6H, JH, AD, 7H, JD, AH",two pair,"A, J",No
+Ace of Base,"AC, 4H, 4D, JS, QD, AD, KD",high card,A,No
+King of the Hill,"6C, 8C, 9S, 2D, QC, 4S, TH",high card,Q,No
+Ace of Base,"5D, 9H, 4C, JS, KH, 6S, 2C",high card,K,No
+Harley Queen,"JD, 8C, QD, 8S, AD, 8H, 3D",three of a kind,8,No
+King of the Hill,"2S, 4C, TS, 9H, 3D, 3C, 4H",two pair,"4, 3",No
+Ace of Base,"5S, 2C, QH, 4H, QS, 3C, JC",pair,Q,Yes
+Harley Queen,"2C, 7S, 6H, 4S, JH, TS, TD",pair,T,No
+Handsome Jack,"3D, 4C, KS, 3C, 4H, AH, JH",high card,A,No
+Ace of Base,"8C, 4D, KH, 8S, 4C, KC, KS",full house,"K, 8",No
+Ace of Base,"6H, 2S, AC, 5S, KH, 5C, 4S",pair,5,No
+Harley Queen,"8D, 9S, 8C, 3H, 5C, 2C, KD",high card,K,No
+Handsome Jack,"3C, QC, 3S, 5S, 4S, TD, TS",pair,T,No
+Ace of Base,"3D, 8C, TD, 6S, 3H, AD, 6H",pair,6,No
+Handsome Jack,"5H, 3S, AS, QD, 6C, 8C, 9H",high card,A,No
+Handsome Jack,"8S, QD, 6D, 4H, TD, 7H, 7D",pair,7,No
+Harley Queen,"KC, KH, QC, 4H, 5D, 5H, 3H",pair,5,No
+Handsome Jack,"2D, JD, 7C, 4S, 9S, KH, 2S",high card,K,No
+Handsome Jack,"QH, 4S, 8C, KD, 3C, 2H, 4H",high card,K,No
+Ace of Base,"3D, 6D, KD, JC, 6S, QD, 2S",high card,K,No
+Harley Queen,"3H, 4C, 4S, TC, KS, 7H, JS",high card,K,No
+Handsome Jack,"QC, 5H, 3C, 6D, 9H, 8D, 5D",high card,9,No
+Ace of Base,"7S, 4H, JS, 5D, 4C, KC, 6S",high card,K,No
+King of the Hill,"7D, AS, 5D, TC, TH, AD, 2C",two pair,"A, T",No
+Handsome Jack,"3C, QH, JD, 7S, 5D, 4S, 2S",high card,Q,No
+Ace of Base,"4S, 3D, QD, 9C, TH, 7D, 8C",high card,Q,No
+Ace of Base,"AC, 2S, JH, QD, KC, 5S, 8C",high card,A,No
+Ace of Base,"7C, 3C, 7D, JC, 7S, AC, 3D",full house,"7, 3",No
+Handsome Jack,"9S, 2S, 6D, 8H, 9H, 2D, QS",high card,Q,No
+Ace of Base,"8H, JH, 4S, 2D, 7S, 9D, KS",high card,K,No
+King of the Hill,"4C, 4S, 3S, 7S, KS, AS, JD",high card,A,No
+Harley Queen,"9C, 3S, 2D, AS, 9S, QH, 6C",high card,A,No
+Handsome Jack,,high card,A,No
+Handsome Jack,"JC, QS, JH, TC, JS, 5H, KC",pair,J,No
+Harley Queen,"KS, AH, 2S, 9H, 5D, TC, QC",high card,A,No
+Ace of Base,"9S, TH, AS, 6S, 8D, QD, 2H",high card,A,No
+Ace of Base,"2S, 6H, 4S, 4D, 6D, 2D, TC",two pair,"6, 4",No
+Handsome Jack,"8C, JS, KC, 6S, AD, 2C, TC",high card,A,No
+Ace of Base,"5D, 2S, 8S, TC, 4S, JD, 9S",high card,J,No
+Harley Queen,"AS, KD, TH, 5H, 5C, JC, KH",two pair,"K, 5",No
+Ace of Base,"QS, JH, 7S, TS, 2S, AD, 7D",pair,7,No
+King of the Hill,"JS, 5C, 3H, JD, 8S, 6C, 8C",pair,8,No
+King of the Hill,"AD, 7H, 2D, TH, TS, 6H, 8S",pair,T,No
+King of the Hill,"4D, QH, 3H, 6S, TD, 2S, 6C",pair,6,No
+Ace of Base,"9H, AS, JD, 6D, 9D, TC, 3H",high card,A,No
+King of the Hill,"7D, 8C, TS, QS, 5S, 6C, JD",high card,Q,No
+Harley Queen,"7H, QD, JD, 4S, 9C, 9H, QH",two pair,"Q, 9",No
+Handsome Jack,"9D, QH, AC, TH, KH, JS, 6C",high card,A,No
+King of the Hill,"3H, KH, TD, 7C, 3C, QS, 2D",high card,K,No
+Ace of Base,"9D, TC, 9S, 2D, 9C, KS, 2H",full house,"9, 2",No
+Handsome Jack,"8C, 3D, AS, KC, 4H, 5S, 6S",high card,A,No
+King of the Hill,"4S, 3H, 2S, AS, JC, 5S, 8H",high card,A,No
+King of the Hill,"9S, 6C, KS, 7H, 8S, 4H, 4D",pair,4,No
+King of the Hill,"QC, 5D, 9D, 8D, AD, KC, 6D",high card,A,No
+King of the Hill,"9H, 4C, 5H, TH, TS, JD, 5S",two pair,"T, 5",No
+Harley Queen,"AS, 8S, TS, QD, KH, 2D, AH",high card,A,No
+Harley Queen,"KD, 8S, 4D, 7S, 5S, 7D, JS",pair,7,No
+Ace of Base,"AH, AC, KD, 6C, 7D, JC, 3C",high card,A,No
+King of the Hill,"7C, 2D, JC, 2H, 3D, 6S, 9H",high card,J,No
+Handsome Jack,"5D, 2S, 3C, 9D, 5C, 9C, QH",pair,9,No
+King of the Hill,"TC, JD, QS, JC, 4H, 9D, 5C",high card,Q,No
+Harley Queen,"3D, 7H, 2S, KC, 2D, JD, TD",pair,2,No
+Ace of Base,"9C, 9S, QC, TC, JC, 5S, 5H",pair,5,No
+Handsome Jack,"5D, KH, JC, QH, 3D, 9S, 4C",high card,K,No
+Ace of Base,"2S, 3S, 5S, TC, KC, JS, QC",high card,K,No
+King of the Hill,"3C, AS, 7D, QD, 8H, 6C, 2D",high card,A,No
+Harley Queen,"TC, KH, 6C, 2C, 2H, KD, 9H",two pair,"K, 2",No
+Ace of Base,"KH, 7D, 2S, 8D, 4H, TC, JS",high card,K,No
+Handsome Jack,"6D, 7D, QS, 3C, 5S, TH, 4H",high card,Q,No
+Handsome Jack,"8H, QS, 9C, 2C, 2S, QC, 7D",two pair,"Q, 2",No
+King of the Hill,"4D, JS, 6C, 3H, 7D, AD, 8D",high card,A,No
+King of the Hill,"9S, 3S, 8S, JS, QS, 6H, QD",pair,Q,No
+Harley Queen,"KH, 9D, 7C, JH, QD, 7H, 7D",three of a kind,7,No
+Harley Queen,"KH, QH, 4S, AS, 5S, 8C, 7D",high card,A,No
+Ace of Base,"4C, 6D, 4S, 3H, 3S, QD, 8C",pair,3,No
+Ace of Base,"8H, 2S, AC, 3S, KC, 5C, JD",high card,A,No
+Handsome Jack,"3C, 6C, 8C, 5S, 2C, KC, 5C",flush,K,No
+Harley Queen,"4S, 7H, 3H, 5S, QD, KS, 6S",high card,K,No
+Harley Queen,"4H, 2S, TC, 6S, QS, KS, 8S",high card,K,No
+Ace of Base,"JC, QH, TH, 3S, 3C, 7H, JD",pair,3,No
+Handsome Jack,"JS, 6H, AD, JC, 8D, 8S, 7H",pair,8,No
+Harley Queen,"TD, 8C, 7D, 5C, 4C, 9D, 8S",high card,9,No
+Ace of Base,"QS, TC, JD, 4D, 2C, 7H, 6D",high card,Q,No
+Ace of Base,"2C, AH, AD, 5H, QC, 2H, TD",high card,A,No
+Harley Queen,"6C, QC, 3C, 6S, KH, 2D, 3H",pair,3,No
+Harley Queen,"7C, TH, 8C, 5H, 4S, 7D, 5S",pair,5,No
+Ace of Base,"8H, 4C, QC, 9D, 4S, AS, QH",two pair,"Q, 4",No
+Handsome Jack,"QC, 8H, 4S, 6D, 5D, JD, 5H",pair,5,No
+Harley Queen,"2C, 6D, 2H, 9S, AH, KC, QS",high card,A,No
+Harley Queen,"4H, 7D, 8H, TC, 4C, 6H, 5H",high card,T,No
+Harley Queen,"5D, KD, KC, 7D, QD, AS, 9S",high card,A,No
+Harley Queen,"9D, JS, 4H, 2S, TS, 6H, KD",high card,K,No
+Handsome Jack,"4S, KC, JH, TS, 4C, 2C, 5H",high card,K,No
+King of the Hill,"9D, 5S, 6C, 8C, 2H, JD, QD",high card,Q,No
+Handsome Jack,"TH, 3C, 9C, QS, 3S, 6D, KC",high card,K,No
+Harley Queen,"2C, 7D, 4S, 7C, TH, KD, 8D",high card,K,No
+Ace of Base,"6S, 2S, JS, 5S, 3S, 4D, TH",high card,J,No
+Handsome Jack,"TC, 2H, 4S, KC, 5S, 2D, 8H",high card,K,No
+Handsome Jack,"KD, TC, 5D, AH, 7C, 8S, 9D",high card,A,No
+Ace of Base,"2H, 9H, QH, 2S, KD, 9C, 3S",high card,K,No
+King of the Hill,"QC, 4D, 2H, 5S, 4H, TH, AD",high card,A,No
+Harley Queen,"QS, 5C, 3D, 5H, 9S, KD, 2C",high card,K,No
+Ace of Base,"TH, 9S, JD, 9D, QH, 3S, 8S",high card,Q,No
+Harley Queen,"AH, 9S, 9D, 4D, 9C, JH, TH",three of a kind,9,No
+King of the Hill,"8H, AC, 4S, 5S, 6S, KH, KD",pair,K,No
+King of the Hill,"AC, 4H, 5D, QS, 5H, 7D, QD",two pair,"Q, 5",No
+Harley Queen,"JH, 8S, 9H, 5D, 6H, 3C, 7D",high card,9,No
+Handsome Jack,"8D, 7H, 4C, 6H, 9H, 6C, 8S",pair,6,No
+Harley Queen,"2D, 7C, 4S, 9C, 9D, QC, 6H",pair,9,No
+King of the Hill,"8D, 8C, 9S, JS, JH, JC, 4H",full house,"J, 8",yes
+Ace of Base,"4D, 7D, 9S, 6S, 2C, 4H, 6H",pair,6,No
+Handsome Jack,"2H, 3C, TH, 5C, AD, QH, AH",pair,A,No
+Ace of Base,"JH, 5D, 8S, 6C, 5H, 6D, AS",two pair,"6, 5",No
+Handsome Jack,"6S, AS, 8H, QC, JD, 4S, TD",high card,A,No
+Ace of Base,"AH, KH, 4S, AD, AS, JH, QC",pair,A,No
+King of the Hill,"8D, 4D, JD, KD, 3D, KH, 4S",two pair,"K, 4",No
+Handsome Jack,"TH, JS, 4C, 3H, QS, JH, JC",three of a kind,J,No
+Handsome Jack,"QC, 3C, 4D, 6C, KC, 5D, 8C",high card,K,yes
+Harley Queen,"8D, KD, 2D, JH, QD, 2S, 7S",pair,2,No
+Harley Queen,"6C, 5D, 5H, TC, JD, 7C, 3C",high card,J,No
+Harley Queen,"JC, 9D, AD, KH, 9C, 4D, 9S",three of a kind,9,No
+Harley Queen,"AH, 9H, TH, TD, KD, 7C, QD",pair,T,No
+Handsome Jack,"QS, 5C, QH, KH, 9D, JC, TC",straight,K,No
+Harley Queen,"5C, 2D, 5D, AS, 6C, AD, KH",pair,A,No
+Ace of Base,"AH, AD, JD, QH, KD, 7D, 2H",high card,A,No
+Handsome Jack,"JC, 8S, KH, 3H, 9C, 8D, 7D",high card,K,No
+,"JD, JH, 7D, AD, KC, KH, AC",two pair,"A, J",No
+Harley Queen,"5H, KH, 6C, 7C, JD, 8C, 6H",pair,6,No
+Ace of Base,"9S, 7S, 6D, 8D, 3D, 2S, 9C",high card,9,No
+King of the Hill,"9D, 3D, QS, 2H, 7C, 3H, 6C",high card,Q,No
+Harley Queen,"KS, 6D, AC, AS, 5D, 6H, 8C",two pair,"A, 6",No
+Ace of Base,"8H, TS, 2D, JH, JC, 2S, 3S",two pair,"J, 2",No
+King of the Hill,"6C, 2S, 2D, 6D, QD, 9D, 8D",flush,Q,No
+King of the Hill,"TH, KD, AD, 6S, KH, KS, TC",full house,"K, T",No
+Ace of Base,"AH, 5C, 9D, 8C, 2C, 3C, TC",high card,T,No
+Handsome Jack,"7H, KC, 6H, 4H, 2H, JC, 3S",high card,K,No
+Handsome Jack,"KH, 2S, AS, KC, 5C, 5D, 3S",pair,5,No
+Ace of Base,"4H, 2S, 5H, KH, 7H, TC, JS",high card,K,No
+Ace of Base,"KH, JC, KS, 8H, KC, 9D, 7H",pair,K,No
+King of the Hill,"5D, 7S, 9S, QS, QC, TH, 7C",two pair,"Q, 7",No
+Handsome Jack,"4C, QD, KD, 5H, 2D, 3C, 7D",high card,K,No
+King of the Hill,"QC, 3S, KS, 5C, 5S, 4D, 9C",pair,5,No
+Handsome Jack,"8S, 3S, 5D, AD, QS, 5C, JD",pair,5,No
+King of the Hill,"6C, KS, 2D, 4S, JS, AS, KC",high card,A,No
+Ace of Base,"QS, 4H, QD, 8C, 2H, 5D, AH",high card,A,No
+Harley Queen,"7S, 5S, TD, 5D, 2S, 9C, QD",high card,Q,No
+Harley Queen,"9H, 6S, 7C, JH, JS, QS, 6D",two pair,"J, 6",No
+Ace of Base,"KH, 5S, JS, QC, 7D, AS, 6S",high card,A,No
+Ace of Base,"KS, KD, TS, JS, AC, QC, 8D",high card,A,No
+Harley Queen,"6C, 9D, 8D, AC, 5H, KH, 4H",high card,A,No
+Ace of Base,"6H, JS, 3S, 3D, 7C, JD, AS",two pair,"J, 3",No
+Handsome Jack,"JC, 3S, QC, 3H, 4S, 4D, QD",two pair,"Q, 3",No
+Harley Queen,"4H, TC, QH, 5C, JD, 3D, JC",pair,J,No
+King of the Hill,"2H, QH, 8S, 7S, JD, KD, 8H",pair,8,No
+Ace of Base,"JD, 7S, KS, 6S, KH, 5S, AH",pair,K,No
+Handsome Jack,"TC, 7C, AC, TD, AH, 4H, 3S",pair,A,No
+Handsome Jack,"KC, 7C, 6D, JD, TH, 3D, JS",pair,J,No
+Ace of Base,"5H, JD, 7C, 5C, AS, 4S, AD",pair,A,No
+Handsome Jack,"3S, JH, QS, 4H, TD, 5H, 7D",high card,Q,No
+Handsome Jack,"KD, TS, TD, 7D, 3C, 4D, JD",high card,J,No
+Handsome Jack,"4D, 5C, 5S, 5H, TD, 2H, AS",three of a kind,5,No
+King of the Hill,"8S, 7H, 5H, 2D, QD, TC, 4H",high card,Q,No
+Ace of Base,"3D, 2C, AD, 2S, 5H, 5D, JC",two pair,"5, 2",No
+Handsome Jack,"AD, 6S, 5H, 9H, 3S, AH, JD",high card,A,No
+Ace of Base,"KC, 8C, KS, KH, JD, KD, 3H",four of a kind,K,No
+Ace of Base,"6S, 5H, 4S, 3C, 3S, 5S, 3D",full house,"3, 5",No
+Ace of Base,"6H, QH, AD, KC, 4C, 2H, 9D",high card,A,No
+King of the Hill,"KH, KD, 8S, KC, 9D, QD, 4H",high card,K,No
+Ace of Base,"KC, 5D, 9C, KD, 4C, 6C, JH",high card,K,No
+Harley Queen,"2D, 9H, KC, KD, 6H, 3D, TS",pair,K,No
+Harley Queen,"QC, 2S, 2H, AH, 8H, 5D, 7D",high card,A,No
+Harley Queen,"AS, 6D, 8D, 2S, 9D, 9H, 2C",two pair,"9, 2",No
+Handsome Jack,"8H, QD, 8C, 7H, 7S, JS, JC",two pair,"8, 7",No
+Handsome Jack,"KD, KC, AD, 9H, TS, 8D, 7S",high card,A,No
+Ace of Base,"4D, JD, 2C, 9C, 9S, JC, AS",two pair,"J, 9",No
+Ace of Base,"AC, 9D, 3H, QS, 6C, JD, 8H",high card,A,No
+King of the Hill,"2H, 8C, 3C, 4C, 9H, JC, 7C",high card,J,No
+King of the Hill,"AC, 9D, 2D, 7D, 8D, 2C, KS",pair,2,No
+Ace of Base,"9S, 6C, 5C, 4H, AS, QS, 4C",pair,4,No
+King of the Hill,"QD, AD, 6S, TC, JS, 4D, 6H",pair,6,No
+Handsome Jack,"7D, 4H, AS, 7S, 9S, QS, 4D",high card,A,No
+Harley Queen,"4H, 9H, 9D, JC, 8H, 9S, 6D",three of a kind,9,No
+King of the Hill,"7C, 6C, 3C, AC, QS, 9D, 7D",high card,A,No
+Ace of Base,"9C, 4H, 2H, 9D, QS, 3H, 7D",high card,Q,No
+Ace of Base,"9H, KC, 5D, JC, AS, KD, QH",high card,A,No
+Handsome Jack,"TS, JC, AC, 5H, QS, 6C, 9S",high card,A,No
+King of the Hill,"9S, AC, TH, 9C, 8H, 2D, 3D",high card,A,No
+Ace of Base,"7S, 8C, 8S, TS, JS, 9D, JC",straight,J,No
+Handsome Jack,"JD, 2D, 3H, TH, 9S, 2C, 9C",two pair,"9, 2",No
+Handsome Jack,"4H, 4D, 6C, 9H, 7H, QH, 7S",pair,7,No
+King of the Hill,"QS, 2C, 3H, QH, AC, 8D, QC",pair,Q,No
+Harley Queen,"3S, 3H, 7S, TD, 5S, 2C, 4C",high card,T,No
+Handsome Jack,"7H, 4D, 8H, 7D, 2D, AH, QH",,A,No
+Ace of Base,"TH, 8H, 9H, 7S, JS, 8C, 5D",high card,J,No
+Handsome Jack,"4H, KD, 8H, 8S, 6H, 5H, 7C",pair,8,YES
+Harley Queen,"3C, 8D, 4D, 6H, KS, 3S, AC",high card,A,No
+Ace of Base,"6D, 4C, 3D, QD, 7H, 6H, 8H",high card,Q,No
+King of the Hill,"TH, QD, JC, 8D, QC, 4S, KC",high card,K,No
+King of the Hill,"8D, 8S, AH, 7D, 7H, 9D, AC",two pair,"8, 7",No
+King of the Hill,"3C, 7C, KD, 9D, 6H, TD, 6S",pair,6,No
+Handsome Jack,"TH, AH, JD, QC, KS, 9H, 3C",high card,A,No
+Ace of Base,"2C, QH, 2H, AH, JD, 5C, 8S",high card,A,No
+King of the Hill,"8S, KS, QS, KD, 6H, 4H, 3H",high card,K,No
+King of the Hill,"7S, TC, 2H, KD, TH, 2S, JS",two pair,"T, 2",No
+Harley Queen,"KH, 2D, 7H, 8D, 5H, AC, 3D",high card,A,No
+Harley Queen,"AS, 6S, JD, 7H, JS, 9C, 8S",pair,J,No
+Handsome Jack,"2D, 6C, 8H, 7S, KC, TS, JS",high card,K,No
+King of the Hill,"3S, 7C, TS, 9C, JD, 4S, 4C",pair,4,No
+Ace of Base,"9H, QH, 8C, 7S, 7C, 5S, 2D",pair,7,No
+Ace of Base,"AS, 9C, TD, 5S, KS, KD, 5C",two pair,"K, 5",No
+Handsome Jack,"8D, TC, 4C, 4D, JC, KD, 7S",pair,4,No
+King of the Hill,"9D, 8D, JS, 4C, AH, QD, KC",high card,A,yes
+King of the Hill,"3D, 8C, 8D, 2H, 4C, JH, 3S",high card,J,No
+Harley Queen,"TC, AD, TS, 4C, QH, 9C, 3S",high card,A,No
+Ace of Base,"5D, 3C, AS, KH, 5C, AH, TS",pair,A,No
+Harley Queen,"2D, 2C, 6S, 6C, JD, TS, 3S",pair,6,No
+Ace of Base,"4H, JH, 2C, 3H, 7C, 4D, QS",high card,Q,No
+King of the Hill,"AD, 3S, 6S, 6H, 3D, 4H, 2H",two pair,"6, 3",No
+Ace of Base,"5D, 2D, 9D, TD, 8D, 9H, 4H",pair,9,No
+Ace of Base,"5D, 8D, 6H, KD, 5H, 4D, JD",high card,K,No
+King of the Hill,"JH, 4H, 8H, 4D, AC, 8C, 6S",two pair,"8, 4",No
+King of the Hill,"5D, KS, TC, 6C, 8S, 4H, 6D",pair,6,No
+King of the Hill,"9D, TH, 9S, 6D, AH, 3H, 2D",high card,A,No
+Ace of Base,"QS, 4D, JS, KC, 7C, JH, 8S",pair,J,No
+Harley Queen,"9D, 7S, 5D, 7C, 7D, 8C, 4C",three of a kind,7,No
+Ace of Base,"9S, 2H, 5C, 8S, 4H, 9D, 3D",high card,9,No
+Harley Queen,"KD, KS, 3S, 6H, 8D, JD, QS",high card,K,No
+King of the Hill,"2C, 3S, 4D, AS, QC, QH, JH",pair,Q,No
+Ace of Base,"8C, 4H, TD, 3S, 2C, 8H, 5C",high card,T,No
+Ace of Base,"9H, 3S, JD, 5H, 6C, 7D, 6H",pair,6,No
+Harley Queen,"3D, 7C, 8H, 4C, 8C, TD, AD",pair,8,No
+Handsome Jack,"3H, 9C, 5H, KH, 5C, TH, 6H",pair,5,No
+Handsome Jack,"KS, 5H, AS, QD, 8H, 4H, KH",high card,A,No
+Harley Queen,"7H, 4C, TH, 2D, KS, QC, 9H",high card,K,No
+King of the Hill,"JC, 7C, 4C, 4S, 3H, KS, QC",pair,4,No
+Harley Queen,"7S, 9D, 6S, KH, 5C, 2H, TH",high card,K,No
+King of the Hill,"4C, 2S, 8C, 2H, JD, 2D, AH",three of a kind,2,No
+Harley Queen,"AC, AH, TD, 4C, 7S, JH, 2C",high card,A,No
+Handsome Jack,"QS, 5D, 3C, 8S, 9C, AC, TD",high card,A,No
+Handsome Jack,"9C, 6S, 2D, AD, KH, 7C, KD",pair,K,No
+Harley Queen,"5S, 7H, 5H, TH, JH, 8H, 2C",high card,J,No
+Harley Queen,"9C, 6H, QD, TC, 2D, 6D, 8H",high card,Q,No
+Harley Queen,"3C, JS, 8H, 6H, 7D, QC, 2H",high card,Q,No
+Handsome Jack,"AC, 3D, 9C, 6D, 2S, KS, QS",high card,A,No
+King of the Hill,"TC, 2H, JS, 6C, 4D, AC, AH",pair,A,No
